@@ -1,24 +1,4 @@
-# websitereliability
+#WebsiteReliability使用文档
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+本项目基于Vue Elemenet-Ui 和PHP实现的可以托管在虚拟主机上的一款URL检测平台
+本项目仍处于开发状态，需要大量的测试来修改评判标准，现在已经发布了最简易的基础版本，后续会加上管理员后台等等。
