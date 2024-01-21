@@ -5,3 +5,7 @@ WebsiteReliability使用文档
 
 Demo:
 ![image](https://github.com/lammy2021/WebsiteReliability/assets/122148913/1fabcc09-9fdd-493f-b856-ef2e3c1baed5)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lammy2021/WebsiteReliability&type=Date)](https://star-history.com/#lammy2021/WebsiteReliability&Date)
